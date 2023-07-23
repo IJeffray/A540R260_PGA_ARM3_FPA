@@ -8,7 +8,7 @@ July 2023
 This is my implementation of an ARM3 processor card for Acorn A540/R260 machines, with FPA socket.
 The ARM3 is of the PGA144 variety.
 
-One has been built and tested with a plastic PGA ARM3 and FPA10 - all operated as expected.
+Two have been built and tested with plastic and ceramic PGA ARM3s up to 37.5MHz and FPA10 up to 30MHz - all operated as expected.
 
 
 ## Licence
